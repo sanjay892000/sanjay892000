@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanjay Kumar Singh</h1>
 <h3 align="center">A passionate Full-stack developer from Utter Pradesh India</h3>
 
-- 🔭 I’m currently working on [myNoteBook](https://mynotebook-crtdby-sanjay.netlify.app/)
-
+- 🔭 I’m currently working on [myNoteBook App](https://mynoteb00kapp.netlify.app/)
 - 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://sanjay892000.github.io/my-portfolio-web/](https://sanjay892000.github.io/my-portfolio-web/)
