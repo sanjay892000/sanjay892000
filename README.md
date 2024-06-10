@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [myNoteBook App](https://mynoteb00kapp.netlify.app/)
 - 🌱 I’m currently learning **TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://sanjay892000.github.io/my-portfolio-web/](https://sanjay892000.github.io/my-portfolio-web/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://sanjay892000.github.io/my-portfolio-web/)
 
 - 💬 Ask me about **react.js, node.js, mongoDB, Postman**
 
