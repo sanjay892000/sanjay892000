@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanjay Kumar Singh</h1>
-<h3 align="center">A passionate Full-stack developer from Utter Pradesh India</h3>
+<h3 align="center">A passionate Full-Stack Web Developer from Utter Pradesh India</h3>
 
 - 🔭 I’m currently working on [myNoteBook App](https://mynoteb00kapp.netlify.app/)
 - 🌱 I’m currently learning **TypeScript**
