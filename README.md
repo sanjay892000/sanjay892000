@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sanjay Kumar Singh</h1>
 <h3 align="center">A passionate Full-Stack Web Developer from Utter Pradesh India</h3>
 
-- 🔭 I’m currently working on [myNoteBook App](https://mynoteb00kapp.netlify.app/)
+- 🔭 I’m currently working on [rentEasy App]()
 - 🌱 I’m currently learning **TypeScript**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://sanjay892000.github.io/my-portfolio-web/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://sanjay892000.netlify.app/)
 
 - 💬 Ask me about **react.js, node.js, mongoDB, Postman**
 
